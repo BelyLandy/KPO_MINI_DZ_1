@@ -69,7 +69,7 @@
 
 Для тестирования используется xUnit. Тесты покрывают логику проверки здоровья животных, добавления их в зоопарк и другие ключевые моменты.
 
-```
+```bash
 dotnet add package xunit
 dotnet add package xunit.runner.visualstudio
 dotnet add package coverlet.collector
