@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoopark_ERP", "Zoopark_ERP\Zoopark_ERP.csproj", "{F6E0B4E9-0A2F-4A41-921F-6B858282C691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoopark_Tests", "Zoopark_Tests\Zoopark_Tests.csproj", "{82CBA595-0CEC-4339-ABA7-3E3C390894DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E0B4E9-0A2F-4A41-921F-6B858282C691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E0B4E9-0A2F-4A41-921F-6B858282C691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E0B4E9-0A2F-4A41-921F-6B858282C691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E0B4E9-0A2F-4A41-921F-6B858282C691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CBA595-0CEC-4339-ABA7-3E3C390894DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CBA595-0CEC-4339-ABA7-3E3C390894DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CBA595-0CEC-4339-ABA7-3E3C390894DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CBA595-0CEC-4339-ABA7-3E3C390894DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
